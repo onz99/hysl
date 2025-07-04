@@ -12,9 +12,9 @@ KR
 ![Huber회귀](https://github.com/user-attachments/assets/0b88e174-8fb8-4567-acaf-e23354d4eb40)
 ![가우시안 프로세스](https://github.com/user-attachments/assets/c9cb417e-e067-4c88-be71-bfcde40339a2)
 ![xgboost](https://github.com/user-attachments/assets/14cee18e-3090-4d24-9baf-b01573580837)
-![mlp1](https://github.com/user-attachments/assets/89cd02b8-9e2c-4618-987e-dcb76fbd27b1)
-![mlp2](https://github.com/user-attachments/assets/012f1bd7-846a-4d1e-a9cc-d351b294fcfe)
-![mlp3](https://github.com/user-attachments/assets/debef77e-a115-4a69-9cba-86d379d4c393)
+![mlp1](https://github.com/user-attachments/assets/4a31c0e0-3dfd-4dbe-bd04-cac668b63e58)
+![mlp2](https://github.com/user-attachments/assets/c6e033e1-6e28-424f-b556-e300d4fb26b2)
+![mlp3](https://github.com/user-attachments/assets/e438602b-75ba-4215-bbf1-8b213d09c7ff)
 
 EN
 ![Linear](https://github.com/user-attachments/assets/13d1ba6c-6498-4db9-842c-231a6221dae9)
@@ -29,6 +29,6 @@ EN
 ![huber](https://github.com/user-attachments/assets/5efde86e-95a4-4e5c-b74a-10e6d310495d)
 ![gaussian](https://github.com/user-attachments/assets/72079929-3dea-4b2b-803e-19155cdd9b78)
 ![xgboost](https://github.com/user-attachments/assets/68d187b1-cf63-4cd6-a12e-5d2fd143b6a7)
-![mlp1](https://github.com/user-attachments/assets/b7ce1508-1b06-42c8-9c2f-abcef624a2b3)
-![mlp2](https://github.com/user-attachments/assets/c95168cc-c0be-4a57-97b4-c7f6d0ffc539)
-![mlp3](https://github.com/user-attachments/assets/dec1a94d-09e5-4e33-85c2-bfc7d5658f81)
+![mlp1](https://github.com/user-attachments/assets/5773ad9a-a123-44b0-9948-3ff0d6a2b575)
+![mlp2](https://github.com/user-attachments/assets/5740a9ad-e2a8-4eb4-b7af-f238f2fb17f5)
+![mlp3](https://github.com/user-attachments/assets/eb856fd3-492c-459a-b303-c4e938a5ef1a)
