@@ -32,3 +32,5 @@ EN
 ![mlp1](https://github.com/user-attachments/assets/5773ad9a-a123-44b0-9948-3ff0d6a2b575)
 ![mlp2](https://github.com/user-attachments/assets/5740a9ad-e2a8-4eb4-b7af-f238f2fb17f5)
 ![mlp3](https://github.com/user-attachments/assets/eb856fd3-492c-459a-b303-c4e938a5ef1a)
+
+![platform image](https://github.com/user-attachments/assets/b87ca90e-1856-4809-bfa6-6fad859eb250)
