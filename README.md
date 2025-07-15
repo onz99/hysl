@@ -34,3 +34,4 @@ EN
 ![mlp3](https://github.com/user-attachments/assets/eb856fd3-492c-459a-b303-c4e938a5ef1a)
 
 ![platform image](https://github.com/user-attachments/assets/b87ca90e-1856-4809-bfa6-6fad859eb250)
+![favicon] <img width="152" height="148" alt="icon" src="https://github.com/user-attachments/assets/43e5280a-77be-4b19-a4b3-6ada5c1624e3" />
